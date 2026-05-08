@@ -1,8 +1,8 @@
 ---
-title: Post Title
-date: 2026-02-14
-author: Your Name
-summary: Short description
+title: week6
+date: 2026-03-20
+author: Joyce Pei
+summary: The first blog of DECO2017 A1
 tags:
   - tag1
   - tag2
