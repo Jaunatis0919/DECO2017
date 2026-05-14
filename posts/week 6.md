@@ -1,5 +1,5 @@
 ---
-title: week6
+title: week 6
 date: 2026-03-20
 author: Joyce Pei
 summary: The first blog of DECO2017 A1
