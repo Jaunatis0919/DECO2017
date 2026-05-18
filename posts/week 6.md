@@ -2,11 +2,11 @@
 title: week 6
 date: 2026-03-20
 author: Joyce Pei
-summary: The first blog of DECO2017 A1
+summary: The First blog of DECO2017 A1
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Interpreting the Brief
+  - Background Research
+  - Group Alignment
 ---
 Write your content here.
 
